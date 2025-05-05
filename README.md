@@ -1,10 +1,19 @@
-# Personal InDesign Resume Master Template
+# Adobe InDesign
 
-⚠️ **Personal Project Notice**: This is my personal resume project repository. While you're welcome to look at the structure and setup for reference, please note that this contains personal information and resources that should not be copied directly.
+⚠️ **Personal Project Notice**: This repository is using Adobe InDesign, moving beyond the limitations of traditional word processors.
 
-## Project Owner
-- **Created by**: Irman Wafi
-- **Last Updated**: May 2025
+## Project Overview
+- **Creator**: Irman Wafi
+- **Purpose**: Exploring Adobe InDesign for creating a highly customized, professionally designed resume
+
+## Design Philosophy
+This project demonstrates the advantages of using InDesign over traditional word processors:
+- Pixel-perfect layout control
+- Professional typography management
+- Consistent styling through master pages
+- Advanced grid system
+- Better handling of design elements
+- Superior export quality
 
 ## Quick Start Guide
 
@@ -15,68 +24,55 @@
 4. Paste into `C:\Windows\System32\Fonts`
 
 ### 2. Document Setup
-The main InDesign file (`1-resume-1p-may25.indd`) uses:
-- **Format**: Single page resume
+The main InDesign file (`1-resume-1p-may25.indd`) showcases:
+- **Format**: Clean, single-page resume layout
 - **Typography**: 
-  - Primary font: Lato (for body text)
-  - Secondary font: Raleway (for headings)
-- **Icons**: Custom SVG icons in `resources` folder
+  - Primary: Lato (optimized for readability)
+  - Secondary: Raleway (for distinctive headings)
+- **Design Elements**: Custom SVG icons for social/contact info
 
 ## Working with the Template
 
-### Essential InDesign Elements
+### Key InDesign Features Used
 1. **Master Pages**
-   - Contains header layout
-   - Grid system for consistent alignment
+   - Consistent header design
+   - Professional grid system
+   - Repeatable elements
 
-2. **Paragraph Styles**
-   - Heading styles using Raleway
-   - Body text styles using Lato
-   - Custom bullet points for lists
+2. **Style System**
+   - Paragraph Styles: Ensuring consistent text formatting
+   - Character Styles: Special text treatments
+   - Object Styles: Consistent graphic elements
 
-3. **Character Styles**
-   - Emphasis text
-   - Link styles
-   - Icon text
+### Workflow Tips
+1. **Setup**
+   - Install fonts first
+   - Open `1-resume-1p-may25.indd`
+   - Check for font warnings
 
-### Resource Management
-- All icons are stored in `resources/`
-- Generated PDFs go to `pdf/`
-- Original InDesign file: `1-resume-1p-may25.indd`
+2. **Making Changes**
+   - Use existing styles for consistency
+   - Maintain professional spacing
+   - Leverage InDesign's precision tools
+   - Update links as needed
 
-## Editing Workflow
+3. **Exporting**
+   - Export as High-Quality PDF
+   - Ensure all fonts are embedded
+   - Enable hyperlinks for interactive elements
 
-### 1. Before Opening
-- Install required fonts
-- Ensure Adobe InDesign is updated
-- Back up the original file if needed
-
-### 2. Making Changes
-1. Open `1-resume-1p-may25.indd`
-2. If font warning appears:
-   - Click "Find Font"
-   - Select missing fonts
-   - Replace with installed versions
-
-### 3. Best Practices
-- Use existing paragraph styles
-- Maintain consistent spacing
-- Keep text in appropriate frames
-- Update links if replacing icons
-
-### 4. Exporting Your Resume
-1. Go to File > Export
-2. Choose PDF (Print)
-3. Settings:
-   - High Quality Print
-   - Embed all fonts
-   - Export as spreads: No
-   - Include hyperlinks: Yes
+## Learning Points
+This project demonstrates several advantages over MS Word:
+- Better typography control
+- Professional-grade layout tools
+- Consistent styling system
+- Superior graphic handling
+- High-quality PDF output
 
 ## Personal Note
-This template is customized for my professional needs. While the structure and techniques used here can be referenced, the design and content are personal to my brand.
+While this is my personal resume template, it serves as an example of how InDesign can elevate a basic resume into a professionally designed document. Feel free to learn from the techniques used here to create your own unique design.
 
-## Resources Used
-- Lato font family (Body text)
-- Raleway font family (Headings)
-- Custom social media icons (SVG format)
+## Resources
+- Lato font family (Primary typeface)
+- Raleway font family (Secondary typeface)
+- Custom SVG icons for contact information
