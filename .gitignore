@@ -1,0 +1,5 @@
+# Ignore old InDesign files directory
+old-indd/
+
+# Ignore personal resources directory
+personal-resources/
